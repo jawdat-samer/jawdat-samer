@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jawdat Samer an IT Tech and Computer Information Systems student.
-- 👀 I’m interested in Software Devlopment both CLI and GUI, Web Development, Networking, System Administration and most important CYBER SECURITY!!
-- 🌱 I’m currently learning GUI Devlopment with python and a little about Network Security.
-- 📫 If u want to reach me just send an email to jawdat.samer@protonmail.com and i will read it when i have time, ty and i hope u enjoy my programs 💞️
+- 👀 I’m interested in the Web Development, Networking, System Administration and most important CYBER SECURITY!!
+- 🌱 I’m currently learning Web Development as a MERN stack developer and other web technology that needed to build a fully functional website.
+- 📫 If u want to reach me just send an email to jawdat.samer@protonmail.com and i will read it when i have time, ty and i hope u enjoy my codes 💞️
