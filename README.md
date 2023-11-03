@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Jawdat Samer an Full Stack Web Developer based in Palestine.
+- 👋 Hi, I'm Jawdat Samer a Software Engineer based in Palestine.
 - 📫 If you want to reach me just send an email to jawdat.samer@protonmail.com and I will read them when I have time, thank you and I hope you enjoy my codes 💞️
