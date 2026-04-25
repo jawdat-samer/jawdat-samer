@@ -1,4 +1,5 @@
-## Hi there 👋
+- 👋 Hi, I'm Jawdat Samer a Software Engineer based in Palestine.
+- 📫 I hope you enjoy my codes 💞️
 
 <!--
 **jawdat-samer/jawdat-samer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
